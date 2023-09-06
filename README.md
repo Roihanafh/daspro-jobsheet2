@@ -1,3 +1,3 @@
 # Dasar Pemrograman - Jobsheet 2
 
-Hello Github, ini adalah repository pertama saya
+nama saya Mohammad Roihan Al Fahmi Hidayatulloh, absen 17 , kelas 1C 
